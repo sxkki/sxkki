@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @sxkki
+- 👀 Estoy interesado en aprender en muchos lenguajes de programación y ramas de programación
+-    como desarrollador web, hacking etico y desarrollador de software
+- 🌱 Actualmente estoy aprendiendo JavaScript y SQL 
+- 📫 Telegram: @sekkitv
+-    Instagram: _miguedono
+-    Twitter: @_sxkki
+-    lmmr8393@icloud.ocm
