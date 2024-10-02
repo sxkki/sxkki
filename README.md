@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I'm looking for help with learn technology of programming.<br>🌱 I'm currently learning Python, Node.js.<br>💬 Ask me about collaborate on projects.<br>⚡ Fun facts about me, nothing stop me.<br><br><br><br>
+🤝 I'm looking for help with learn technology of programming.<br>🌱 I'm currently learning Python, Node.js.<br>💬 Ask me about collaborate on projects.<br>⚡ Fun facts about me, i love programming with a coffee.☕.<br><br><br><br>
 
 
 ## 🌐 Socials:
